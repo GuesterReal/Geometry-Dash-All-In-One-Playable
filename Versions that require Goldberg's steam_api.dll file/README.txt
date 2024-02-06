@@ -1,0 +1,2 @@
+The file called "steam_api.dll" in the root of this folder is Mr_Goldberg's steam_api.dll file, taken from GitLab. Copy-Paste it to every version folder found here.
+Credits: https://gitlab.com/Mr_Goldberg/goldberg_emulator/-/releases/0.2.5
