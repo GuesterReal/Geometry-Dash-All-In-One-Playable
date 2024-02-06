@@ -1,0 +1,2 @@
+The folder called "SmartSteamEmu" has a Steam emulator inside that is required to play these versions found in the root of this folder. Add a version and enter the AppID: 322170
+Credits: https://cs.rin.ru/forum/viewtopic.php?f=29&t=62935
