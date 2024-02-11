@@ -3,6 +3,6 @@ Every Geometry Dash version until 2.2 using the download_depot command in the St
 
 **My version of how to play these versions. Let me know how I can improve it by commenting in Issues.** 
 
-**As of February 6 2024, the first 3 versions cannot be played by me.**
+**As of February 11 2024, the first 3 versions cannot be played by me.**
 
 **NOTICE:** *Stereo Madness and other levels may show a percentage of the level played. It is probably because you have Geometry Dash installed with Steam.*
